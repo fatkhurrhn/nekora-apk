@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967248394103",
+    "project_id": "nekora-65130",
+    "storage_bucket": "nekora-65130.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967248394103:android:adf50e06e269535200d372",
+        "android_client_info": {
+          "package_name": "com.example.nekora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkUnxRBw4UVfKDGwE1v516PSQGOwD7_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
